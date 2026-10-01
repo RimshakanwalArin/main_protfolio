@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rimsha Kanwal Portfolio
 
 A responsive personal portfolio for Rimsha Kanwal, showcasing web development, digital marketing, Canva design, and AI integration visual projects. Built with Next.js App Router, TypeScript, Tailwind CSS 4, Framer Motion, Lucide icons, and `next/font`.
@@ -88,3 +89,6 @@ data/
 public/
   projects/            Project preview artwork
 ```
+=======
+# main_protfolio
+>>>>>>> 7ac7f5530603425fe25b0f06295d0629c6ccb00c
