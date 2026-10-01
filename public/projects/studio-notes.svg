@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" fill="#e9e3dc"/><rect x="24" y="24" width="1152" height="712" rx="12" fill="#f8f6f2"/>
+  <path d="M24 78h1152" stroke="#ded8d0"/><circle cx="54" cy="52" r="6" fill="#d27e70"/><circle cx="76" cy="52" r="6" fill="#d9bc78"/><circle cx="98" cy="52" r="6" fill="#9baa85"/>
+  <text x="80" y="143" fill="#777168" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">STUDIO NOTES / DIGITAL HOME</text>
+  <text x="80" y="257" fill="#272622" font-family="Georgia,serif" font-size="74">Ideas take shape</text><text x="80" y="341" fill="#272622" font-family="Georgia,serif" font-size="74">when given room.</text>
+  <path d="M80 387h132" stroke="#a485cc" stroke-width="5"/><text x="80" y="443" fill="#777168" font-family="Arial,sans-serif" font-size="21">A place for considered work and small beginnings.</text>
+  <rect x="80" y="493" width="183" height="54" rx="27" fill="#272622"/><text x="110" y="527" fill="#fff" font-family="Arial,sans-serif" font-size="16">EXPLORE THE STUDIO</text>
+  <rect x="742" y="151" width="353" height="453" rx="5" fill="#d6c2a5"/><circle cx="920" cy="337" r="114" fill="#aa8772"/><path d="M762 529c44-98 105-147 183-147s139 49 183 147v57H762v-57Z" fill="#414943"/><path d="M757 230c42-83 101-124 177-124 81 0 143 40 185 120" stroke="#faf8f4" stroke-opacity=".7" stroke-width="3"/>
+  <rect x="721" y="625" width="202" height="8" rx="4" fill="#d5cfc6"/><rect x="721" y="647" width="294" height="8" rx="4" fill="#e0dad1"/>
+</svg>

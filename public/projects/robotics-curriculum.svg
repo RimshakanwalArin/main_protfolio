@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" fill="#F7FAFC"/>
+  <rect x="36" y="36" width="1128" height="142" rx="14" fill="#CBD8EF" stroke="#172235" stroke-width="6"/>
+  <text x="600" y="94" text-anchor="middle" fill="#172235" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="800" letter-spacing="2">ROBOTICS IN THE CURRICULUM</text>
+  <text x="600" y="139" text-anchor="middle" fill="#36516E" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="4">LEARN BY BUILDING</text>
+  <g stroke="#172235" stroke-width="5">
+    <path d="M600 180v544M36 314h1128M36 451h1128M36 588h1128"/>
+    <path d="M600 180H36v134h564v-134Zm0 134h564v137H600V314Zm0 137H36v137h564V451Zm0 137h564v136H600V588Z" fill="#59C5D3"/>
+  </g>
+  <g fill="#102031" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">
+    <text x="67" y="222"><tspan x="67">BUILDING AND</tspan><tspan x="67" dy="27">PROGRAMMING</tspan><tspan x="67" dy="27">GROWS PROBLEM</tspan><tspan x="67" dy="27">SOLVING SKILLS</tspan></text>
+    <text x="634" y="356"><tspan x="634">CREATIVITY TURNS</tspan><tspan x="634" dy="27">IDEAS INTO ROBOTS</tspan><tspan x="634" dy="27">THAT CAN DO</tspan><tspan x="634" dy="27">REAL TASKS</tspan></text>
+    <text x="67" y="493"><tspan x="67">TECHNOLOGY BUILDS</tspan><tspan x="67" dy="27">CONFIDENCE FOR A</tspan><tspan x="67" dy="27">DIGITAL FUTURE</tspan></text>
+    <text x="634" y="629"><tspan x="634">TEST, LEARN,</tspan><tspan x="634" dy="27">IMPROVE. PERSISTENCE</tspan><tspan x="634" dy="27">IS PART OF THE</tspan><tspan x="634" dy="27">PROCESS.</tspan></text>
+  </g>
+  <g transform="translate(760 192)" stroke="#142438" stroke-width="9" stroke-linejoin="round">
+    <rect x="18" y="0" width="204" height="105" rx="37" fill="#ECF8FA"/>
+    <rect x="38" y="21" width="164" height="67" rx="22" fill="#344C79"/>
+    <rect x="76" y="42" width="20" height="28" rx="8" fill="#61D9E5" stroke="none"/><rect x="143" y="42" width="20" height="28" rx="8" fill="#61D9E5" stroke="none"/>
+    <path d="M99 78c13 13 30 13 43 0" stroke="#76E1E8" stroke-width="7" stroke-linecap="round"/>
+    <path d="M83 105v39m73-39v39M77 144h87l26 103H51l26-103Z" fill="#EAF6F8"/>
+    <rect x="91" y="158" width="59" height="54" rx="9" fill="#58C6D7"/>
+    <path d="m121 171 8 8 12 1-2 12 2 11-12 1-8 8-8-8-12-1 2-11-2-12 12-1 8-8Z" fill="#FFE169" stroke="none"/>
+    <path d="M50 163 25 180l-7 44 21 7 22-38m167-30 24 17 7 44-21 7-22-38" fill="#EAF6F8"/>
+    <path d="m76 247-10 35h53m38-35 10 35h-53" fill="#F7D34C"/>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" fill="#FCFCFB"/>
+  <text x="600" y="98" text-anchor="middle" fill="#101318" font-family="Arial, Helvetica, sans-serif" font-size="53" font-weight="800" letter-spacing="3">DESIGN PROCESS</text>
+  <text x="600" y="138" text-anchor="middle" fill="#50545B" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" letter-spacing="6">FROM BRIEF TO DELIVERY</text>
+  <path d="M119 202v492" stroke="#DBB6D9" stroke-width="13" stroke-linecap="round"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#111820">
+    <rect x="166" y="183" width="927" height="58" rx="12" fill="#FFD1B1"/>
+    <rect x="166" y="250" width="927" height="58" rx="12" fill="#B8DEDF"/>
+    <rect x="166" y="317" width="927" height="58" rx="12" fill="#F4B9DE"/>
+    <rect x="166" y="384" width="927" height="58" rx="12" fill="#F2E6A1"/>
+    <rect x="166" y="451" width="927" height="58" rx="12" fill="#DDB8E8"/>
+    <rect x="166" y="518" width="927" height="58" rx="12" fill="#B9DFF4"/>
+    <rect x="166" y="585" width="927" height="58" rx="12" fill="#FFBBB1"/>
+    <rect x="166" y="652" width="927" height="58" rx="12" fill="#CBE4BD"/>
+    <g font-size="22" font-weight="800">
+      <text x="208" y="221">01  BRIEF</text><text x="208" y="288">02  BRAINSTORM</text><text x="208" y="355">03  SKETCH</text><text x="208" y="422">04  SOLUTION</text>
+      <text x="208" y="489">05  DESIGN</text><text x="208" y="556">06  REVISION</text><text x="208" y="623">07  PRESENTATION</text><text x="208" y="690">08  DELIVERY</text>
+    </g>
+  </g>
+  <g fill="#FFF" stroke-width="5">
+    <rect x="91" y="194" width="56" height="37" rx="7" stroke="#F0A982"/><rect x="91" y="261" width="56" height="37" rx="7" stroke="#76BDBF"/>
+    <rect x="91" y="328" width="56" height="37" rx="7" stroke="#D98DC2"/><rect x="91" y="395" width="56" height="37" rx="7" stroke="#D4C65E"/>
+    <rect x="91" y="462" width="56" height="37" rx="7" stroke="#BD8DCD"/><rect x="91" y="529" width="56" height="37" rx="7" stroke="#75B7D5"/>
+    <rect x="91" y="596" width="56" height="37" rx="7" stroke="#E98F88"/><rect x="91" y="663" width="56" height="37" rx="7" stroke="#91B87C"/>
+  </g>
+  <g stroke="#1A2027" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M824 198h85v32h-85zm9 9 33 24 34-24"/>
+    <rect x="843" y="263" width="45" height="30" rx="4"/><circle cx="831" cy="265" r="9"/><circle cx="903" cy="291" r="9"/><path d="m839 269 8 4m39 13 9 3"/>
+    <path d="m841 345 18-16 13 13 26-22m-54 42h63"/>
+    <circle cx="866" cy="411" r="20"/><path d="m858 411 6 6 12-14"/>
+    <path d="M840 469h56v32h-56zm12-10h32"/><path d="m848 492 12-11 10 8 18-18"/>
+    <rect x="843" y="529" width="52" height="37" rx="4"/><path d="m851 556 12-14 9 8 14-17"/>
+    <path d="M846 603h47v31h-47zm6 8 17 13 18-13"/>
+    <path d="M849 668c4-14 13-20 22-20s18 6 22 20v29h-44v-29Z"/><path d="m859 680 8 8 15-18"/>
+  </g>
+</svg>

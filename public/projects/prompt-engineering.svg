@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="24" x2="1110" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050B12"/>
+      <stop offset=".54" stop-color="#071522"/>
+      <stop offset="1" stop-color="#02060B"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="204" y1="111" x2="1009" y2="369" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D2635"/>
+      <stop offset="1" stop-color="#06111C"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="299" y1="147" x2="906" y2="331" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8AF2FF"/>
+      <stop offset=".52" stop-color="#22C9F2"/>
+      <stop offset="1" stop-color="#5D9BFF"/>
+    </linearGradient>
+    <radialGradient id="beam" cx="0" cy="0" r="1" gradientTransform="matrix(1 353 -354 1 604 404)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1DBEEB" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#1DBEEB" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="0" y="0" width="1200" height="760" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h1200v760H0z"/>
+  <path fill="url(#beam)" d="M0 0h1200v760H0z"/>
+  <g opacity=".5" stroke="#1C7092" stroke-width="1">
+    <path d="M0 120h1200M0 190h1200M0 260h1200M0 330h1200M0 400h1200M0 470h1200M0 540h1200M0 610h1200M0 680h1200" stroke-dasharray="2 16"/>
+    <path d="M110 0v760M230 0v760M350 0v760M470 0v760M590 0v760M710 0v760M830 0v760M950 0v760M1070 0v760" stroke-dasharray="2 18"/>
+  </g>
+  <path d="M174 105 1008 47l34 254-833 63-35-259Z" fill="#0B1722" stroke="#168EB7" stroke-width="3" opacity=".62" filter="url(#glow)"/>
+  <path d="M180 108 1001 52l34 238-821 61-34-243Z" fill="url(#panel)" stroke="#36CFF4" stroke-width="3"/>
+  <path d="m211 126 758-52 19 18m-782 224 798-59" stroke="url(#cyan)" stroke-width="3" opacity=".85"/>
+  <text x="258" y="213" fill="url(#cyan)" font-family="Arial, Helvetica, sans-serif" font-size="77" font-weight="800" letter-spacing="4" transform="rotate(-4 258 213)">PROMPT</text>
+  <text x="286" y="288" fill="#E4F8FF" font-family="Arial, Helvetica, sans-serif" font-size="51" font-weight="700" letter-spacing="5" transform="rotate(-4 286 288)">ENGINEERING</text>
+  <text x="84" y="430" fill="#74DFF8" font-family="monospace" font-size="15" letter-spacing="3">INSTRUCT</text>
+  <text x="84" y="467" fill="#74DFF8" font-family="monospace" font-size="15" letter-spacing="3">REFINE</text>
+  <text x="84" y="504" fill="#74DFF8" font-family="monospace" font-size="15" letter-spacing="3">STRUCTURE</text>
+  <text x="84" y="541" fill="#74DFF8" font-family="monospace" font-size="15" letter-spacing="3">IMAGINE</text>
+  <path d="M585 345c-65 46-89 91-15 119 68 26 59 50-5 75-67 27-58 58 18 75 56 13 55 36 2 58" stroke="#21C6F2" stroke-width="3" opacity=".9"/>
+  <path d="M585 345c-65 46-89 91-15 119 68 26 59 50-5 75-67 27-58 58 18 75 56 13 55 36 2 58" stroke="#21C6F2" stroke-width="13" opacity=".3" filter="url(#glow)"/>
+  <g fill="#85EFFF">
+    <circle cx="573" cy="366" r="3"/><circle cx="548" cy="395" r="2"/><circle cx="566" cy="438" r="3"/><circle cx="594" cy="467" r="2"/><circle cx="578" cy="507" r="3"/><circle cx="553" cy="541" r="2"/><circle cx="579" cy="585" r="3"/><circle cx="609" cy="620" r="2"/><circle cx="587" cy="660" r="3"/>
+  </g>
+  <path d="M545 705h80l-15-22h-50l-15 22Z" fill="#0D2938" stroke="#3BCFF2" stroke-width="2"/>
+  <circle cx="585" cy="671" r="28" fill="#092238" stroke="#48DAFA" stroke-width="2"/>
+  <path d="M567 671c8-12 27-12 36 0-9 12-28 12-36 0Z" stroke="#9BEFFF" stroke-width="2"/>
+  <circle cx="585" cy="671" r="5" fill="#9BEFFF"/>
+  <text x="720" y="478" fill="#E1F5FF" font-family="Arial, Helvetica, sans-serif" font-size="20">Words shape AI.</text>
+  <text x="720" y="510" fill="#E1F5FF" font-family="Arial, Helvetica, sans-serif" font-size="20">Prompts shape</text>
+  <text x="720" y="542" fill="#E1F5FF" font-family="Arial, Helvetica, sans-serif" font-size="20">possibility.</text>
+  <path d="M705 455h169v109H705z" stroke="#227BA0" stroke-width="2" opacity=".7"/>
+  <text x="82" y="727" fill="#7CA6BB" font-family="monospace" font-size="12" letter-spacing="3">AI-ASSISTED VISUAL CONCEPTS / 01</text>
+</svg>

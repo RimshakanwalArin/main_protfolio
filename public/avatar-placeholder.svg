@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 860" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="54" y1="62" x2="682" y2="812" gradientUnits="userSpaceOnUse"><stop stop-color="#392657"/><stop offset=".54" stop-color="#21182e"/><stop offset="1" stop-color="#111018"/></linearGradient>
+    <linearGradient id="shirt" x1="172" y1="553" x2="581" y2="816" gradientUnits="userSpaceOnUse"><stop stop-color="#bb9aeb"/><stop offset="1" stop-color="#694991"/></linearGradient>
+    <linearGradient id="skin" x1="280" y1="256" x2="472" y2="528" gradientUnits="userSpaceOnUse"><stop stop-color="#efbda2"/><stop offset="1" stop-color="#bd806e"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(300 225 -230 306 360 340)" gradientUnits="userSpaceOnUse"><stop stop-color="#bd8aff" stop-opacity=".38"/><stop offset="1" stop-color="#bd8aff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h720v860H0z"/>
+  <path fill="url(#glow)" d="M0 0h720v860H0z"/>
+  <circle cx="360" cy="360" r="253" stroke="#dac5ff" stroke-opacity=".12"/>
+  <circle cx="360" cy="360" r="285" stroke="#dac5ff" stroke-opacity=".07"/>
+  <path d="M79 710c70-87 172-133 281-133 117 0 218 46 281 133v150H79V710Z" fill="url(#shirt)"/>
+  <path d="M276 530c17 38 46 67 84 67 40 0 71-30 86-69l-14-91H289l-13 93Z" fill="url(#skin)"/>
+  <path d="M240 332c0-112 48-176 123-176 81 0 124 68 124 176 0 118-51 200-126 200-72 0-121-84-121-200Z" fill="url(#skin)"/>
+  <path d="M238 339c-17-131 37-234 142-234 84 0 147 53 153 156 3 47-10 83-26 111-4-36-15-72-35-105-27-45-61-77-105-94-18 58-71 102-128 124l-1 42-12 28c-10-8-17-17-20-28Z" fill="#21182e"/>
+  <path d="M264 341c-8-29-26-39-42-26-18 15-12 53 13 71 9 7 20 9 30 6m214-51c8-29 26-39 42-26 18 15 12 53-13 71-9 7-20 9-30 6" fill="#c98f79"/>
+  <path d="M305 362c11-7 23-7 34 0m83 0c11-7 23-7 34 0" stroke="#3f2830" stroke-width="7" stroke-linecap="round"/>
+  <path d="M352 424c11 7 27 7 39 0" stroke="#7d4645" stroke-width="6" stroke-linecap="round"/>
+  <path d="m332 388 5 22m68-22-5 22" stroke="#9e6358" stroke-width="5" stroke-linecap="round"/>
+  <path d="M290 614c34 31 74 47 70 47s48-16 78-47l51 42-49 204H277l-47-204 60-42Z" fill="#f1e5ff" fill-opacity=".15"/>
+  <path d="M360 659v201m-22-119 22 24 22-24" stroke="#e9d9ff" stroke-opacity=".65" stroke-width="4"/>
+  <circle cx="543" cy="229" r="7" fill="#c8f279"/><circle cx="158" cy="544" r="5" fill="#e4a7a0"/>
+</svg>
